@@ -34,7 +34,7 @@
 -->
 <div align="right">
 
-**~** _Mufti Faiyaz_  
+
 
 
 </div>
