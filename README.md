@@ -1,8 +1,10 @@
 <!-- GIF SECTION -->
-<img align="left" src="YOUR_DARK_GIF_URL#gh-dark-mode-only">
-<img align="left" src="YOUR_LIGHT_GIF_URL#gh-light-mode-only">
+<!-- GIF SECTION -->
+<img align="right" src="https://raw.githubusercontent.com/muftifaiyazshamim/Mufi-Faiyaz-Shamim/b5be03a4abcd22732bb87a4b503fce7edc50bc58/Mufti_Faiyaz_Shamim.gif#gh-dark-mode-only" width="auto" height="700">
+<img align="right" src="https://raw.githubusercontent.com/muftifaiyazshamim/Mufi-Faiyaz-Shamim/b5be03a4abcd22732bb87a4b503fce7edc50bc58/Mufti_Faiyaz_Shamim.gif#gh-light-mode-only" width="auto" height="700">
 
 
+  
 
   
 💻 Problem Solver | Code Learner
